@@ -1,0 +1,18 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+
+body {
+    background-color: #993399
+}
+
+.footer {
+    background-color: teal;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 1em;
+    text-align: center;
+}

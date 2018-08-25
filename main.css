@@ -8,6 +8,16 @@ body {
     background-color: #993399
 }
 
+.main-content {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    height: 600px;
+    align-content: center;
+    border: 1px solid black;
+
+}
+
 .footer {
     background-color: teal;
     position: fixed;
